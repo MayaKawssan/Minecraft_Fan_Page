@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.news{
+color: rgb(139, 16, 16);
+text-align: left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+font-size: xx-large;
+
+}
+.imp{
+   text-align: center;
+   font-weight: 400;
+   font-size: large;
+}
+.iphoto{ margin-left: 200px;
+    margin-bottom: 40px;
+   
+}
+hr{
+    border-top: 3px solid black;
+  
+}

@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-image: url(3.jpg);
+   
+    background-size: cover;
+}
+
+   
+  
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px 25px;
+    margin-top: 40px;
+    
+}
+header h1{
+   color: rgb(24, 17, 12);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+   font-size: 40px;
+   text-shadow: 2.5px 2.5px rgb(234, 227, 227);
+   padding: 0px 20px;
+
+}
+header button{
+    background-color: rgb(111, 78, 55);
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    font-size: large;
+    padding: 15px 20px;
+    text-shadow: 1px 1px rgb(239, 236, 236);
+    
+}
+button:hover {
+    transform: scale(1.2);
+    
+}
